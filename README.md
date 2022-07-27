@@ -1,2 +1,1 @@
-# TelegramBot
-Template for Telegram bot
+Простой телеграм бот, который может сказать привет и отправить фото
